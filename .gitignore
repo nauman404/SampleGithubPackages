@@ -83,3 +83,14 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+*.iml
+.gradle
+.idea
+.DS_Store
+/build
+.externalNativeBuild
+*.properties
+*.jks
+gradle/
+gradlew*
